@@ -1,0 +1,52 @@
+body {
+    background-color: firebrick;
+}
+
+.main {
+    width: 75%;
+    height: auto;
+    margin: auto;
+    background: #ffffff;
+    padding: 2em;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: brown;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+h3 {
+    text-align: center;
+    color: brown;
+    letter-spacing: 2px;
+    font-size: bold;
+    font-size: 35px;
+}
+
+h4{ 
+    text-align: center;
+    color: brown;
+    letter-spacing: 2px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: normal;
+    color: black;
+}
+
